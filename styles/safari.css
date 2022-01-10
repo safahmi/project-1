@@ -1,0 +1,45 @@
+.para	{
+	
+    font-size: 2rem;
+    text-align: justify;
+    color: white;
+    text-shadow: 2px 2px 10px black;
+    border: 5px dotted rgb(87, 87, 87);
+    margin:2rem 0 4rem 0;
+    padding: 1rem;
+  }
+
+.underline
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.flotteleft {
+    float:left;
+    margin: 1rem;
+    }
+.flotteright {
+    float:right;
+    margin: 1rem;
+    }
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    border : 3px solid black;
+}
+
+article{
+    margin: 3rem 1rem 10rem 1rem;
+}
+
+a{
+    color: rgb(28, 0, 185);
+    font-size: 1.5rem;
+}
+a:hover
+{
+    color: purple;
+}

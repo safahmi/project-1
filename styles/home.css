@@ -1,0 +1,21 @@
+p	{
+	
+    font-size: 2rem;
+    text-align: justify;
+    color: white;
+    text-shadow: 2px 2px 10px black;
+    border: 5px dotted rgb(87, 87, 87);
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+h1	{
+	
+    font-size: 5rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 10px black;
+    border-bottom:5px solid rgb(102, 102, 102);
+    margin: 1rem;
+    margin-bottom: 2em;
+  }

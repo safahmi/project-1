@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<meta charset="UTF-8" />
+		<title>Home Page</title>
+        <link rel="stylesheet" href="styles/style.css">
+	</head>
+
+    <body>
+	
+	<header>
+		<iframe 
+		title="header"
+		src="iframe.html">
+		</iframe>
+		
+		<p>Enjoy a new adventure </p>
+
+	</header>
+	
+	<main>
+	
+	</main>
+	
+	<footer id="footer">	
+		<iframe id="footer"
+		title="footer"
+		src="iframefooter.html">
+		</iframe>
+		
+	</footer>
+	
+
+    </body>
+</html>
+
+
+

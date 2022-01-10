@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<meta charset="UTF-8" />
+		<title>Home Page</title>
+        <link rel="stylesheet" href="styles/iframe.css">
+	</head>
+
+    <body>
+	
+		<header>
+		 
+		  
+		  <nav>
+		  <ul>
+			<li class="menu-deroulant">
+			  <a href="#">Menu</a>
+			  <ul class="sous-menu">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Safari</a></li>
+				<li><a href="#">Pictures</a></li>
+				<li><a href="#">Prices</a></li>
+				<li><a href="#">Contact us</a></li>
+			  </ul>
+			</li>
+			
+		  </ul>
+		</nav>
+		
+		 <h1>En-tête</h1>
+		 
+		</header>
+		
+	<footer>
+	
+	</footer>
+
+    </body>
+</html>

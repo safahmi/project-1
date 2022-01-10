@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#footer
+{
+	width: 100%;
+	height: 15em;
+	background: radial-gradient(#797979, #646363);
+}
+
+address, p
+{
+	list-style: none;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	padding: 20px 0 0 20px;
+	font-size: 1.5em;
+	color: aliceblue;
+	line-height: 2rem;
+	display: inline-block;
+}
+
+p
+{
+	text-align: center;
+}
+
+img{
+
+	position: absolute;
+	right: 5px;
+	top: 10px;	
+	width: 6em; 
+	}
+
+a:hover
+{
+	color:purple;
+}
+
+span{
+	font-size: 1.2rem;
+	font-style: italic;
+}
+

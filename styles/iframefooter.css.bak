@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 15px;
+}
+
+#footer
+{
+	width: 100%; 
+	background: radial-gradient(#fcce78, #943D0E);
+}
+
+address, p
+{
+	display: inline-block;
+}
+
