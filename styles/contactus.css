@@ -71,3 +71,8 @@ form{
   option {
     color: black;
   }
+
+  optgroup{
+    color: rgb(0, 13, 129);
+    font-weight: bold;
+  }
