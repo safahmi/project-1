@@ -67,3 +67,7 @@ form{
     margin-left: auto;
     margin-right: auto;
   }
+
+  option {
+    color: black;
+  }

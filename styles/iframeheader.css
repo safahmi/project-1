@@ -89,6 +89,7 @@ nav > ul > li:hover > a{
 
 .sous-menu > li:hover > a {
   color: white;
+  font-weight: bold;
 }
 
 
